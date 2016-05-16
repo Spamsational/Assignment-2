@@ -1,0 +1,52 @@
+#loginBar{
+height: 20px;
+text-align: right;
+background-color: white;
+color: black;
+padding-right: 50px;
+}
+#register{
+position: fixed;
+z-index: 1;
+top:50%;
+left:50%;
+height: 280px;
+margin-top:-140px;
+width: 500px;
+margin-left:-250px;
+display:none;
+border-style: solid;
+border-width: 1px;
+border-color: gray;
+background-color: white;
+border-radius: 20px;
+text-align: center;
+box-shadow: 10px 10px 10px black;
+}
+#login{
+position: fixed;
+z-index: 1;
+top:50%;
+left:50%;
+height: 280px;
+margin-top:-140px;
+width: 500px;
+margin-left:-250px;
+display:none;
+border-style: solid;
+border-width: 1px;
+border-color: gray;
+background-color: white;
+border-radius: 20px;
+text-align: center;
+box-shadow: 10px 10px 10px black;
+}
+#loginSubmit{
+margin-top:-25px;
+}
+#btnLogin{
+float: right;
+}
+#btnRegister{
+float: right;
+}
